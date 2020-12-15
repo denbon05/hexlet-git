@@ -1,1 +1,1 @@
-Hexlet Curry
+People file content
